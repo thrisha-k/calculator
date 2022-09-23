@@ -1,4 +1,4 @@
-# Thrisha testing automating scripted pipeline
+# Thrisha testing automating scripted pipeline now
 pipeline {
 	agent any
 	tools {
